@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Monteleone/converter_word2pdf/blob/main/convert-word-document-into-pdf.png" width="150">
+  <img src="https://github.com/Monteleone/converter_word2pdf/blob/main/convert-word-document-into-pdf.png" width="250">
 </p>
 
 
