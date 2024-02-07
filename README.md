@@ -1,4 +1,7 @@
 
+
+
+
 This Python code creates a GUI application that converts Microsoft Word documents to PDF format. Here's what it does and what the user needs to execute it:
 
 **Functionality**:
@@ -28,4 +31,4 @@ This Python code creates a GUI application that converts Microsoft Word document
 4.  **GUI Geometry**: Optionally adjust the dimensions and position of the GUI window using the `setGeometry()` method.
 5.  **Execution**: Run the script using Python to start the application.
 
-By following these steps and making the necessary changes, the user can successfully execute the Word to PDF conversion application.
+By following these steps and making the necessary changes, the user can successfully execute the Word to PDF conversion application, including the ability to drag and drop both Word documents and their shortcuts.
