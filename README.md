@@ -5,7 +5,6 @@
 
 
 
-
 This Python code creates a GUI application that converts Microsoft Word documents to PDF format. Here's what it does and what the user needs to execute it:
 
 **Functionality**:
